@@ -10,7 +10,7 @@ function HeroImage() {
             <img className='into-img' src={lap} alt='lap' />
         </div>
         <div className='content'>
-            <p>Hi,I am a</p>
+            <p>Hi,I am</p>
             <h1>Amalnath K.</h1>
             <div>
                 <Link to='/project' className='btn'>
